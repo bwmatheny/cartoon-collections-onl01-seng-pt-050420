@@ -2,7 +2,7 @@ def roll_call_dwarves(dwarves)
   i = 0
   if i < dwarves.length
     puts "#{dwarves}"
-    
+
   end
 end
 
